@@ -4556,7 +4556,7 @@ input:-internal-autofill-selected {
 /**********************footer part css*******************/
 /* line 2, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 .footer_part {
-  background-color: #faf4ff;
+  background-color: #3C185B;
   padding: 130px 0px 25px;
 }
 
@@ -4706,14 +4706,14 @@ input:-internal-autofill-selected {
 
 /* line 108, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 .footer_part .single_footer_part .list-unstyled li a {
-  color: #555;
+  color: rgb(65, 62, 62);
   margin-bottom: 15px;
   display: inline-block;
 }
 
 /* line 112, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 .footer_part .single_footer_part .list-unstyled li a:hover {
-  color: #8d00ff !important;
+  color: #f8f8f8 !important;
 }
 
 /* line 118, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
@@ -6881,7 +6881,7 @@ h1, h2, h3, h4, h5, h6 {
 /**********************footer part css*******************/
 /* line 2, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 .footer_part {
-  background-color: #faf4ff;
+  background-color: #3C185B;
   padding: 130px 0px 25px;
 }
 
@@ -7019,7 +7019,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 96, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 .footer_part .single_footer_part p {
-  color: #555555;
+  color: #474646;
   line-height: 25px;
   margin-bottom: 10px;
 }
@@ -7031,14 +7031,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 108, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 .footer_part .single_footer_part .list-unstyled li a {
-  color: #555;
+  color: rgb(0, 0, 0);
   margin-bottom: 15px;
   display: inline-block;
 }
 
 /* line 112, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 .footer_part .single_footer_part .list-unstyled li a:hover {
-  color: #8d00ff !important;
+  color: #eeecf0 !important;
 }
 
 /* line 118, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
@@ -7131,7 +7131,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 186, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 .footer_part .footer_icon li a :hover {
-  color: #8d00ff;
+  color: #fdfdfd;
 }
 
 @media (max-width: 991px) {
@@ -7163,14 +7163,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 215, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 .footer_part .copyright_text p a {
-  color: #8d00ff;
+  color: #171718;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 
 /* line 218, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
 .footer_part .copyright_text p a:hover {
-  color: #8d00ff;
+  color: #e6e1eb;
 }
 
 /* line 222, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_footer.scss */
